@@ -1,0 +1,5 @@
+{
+  "name": "VisionAssist",
+  "description": "An AI-powered assistant for visually impaired users that reads text and describes surroundings using the camera.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
